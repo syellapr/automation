@@ -1,0 +1,7 @@
+<TargetEndpoint name="default">
+    <!-- Outbound HTTP configuration -->
+    <HTTPTargetConnection>
+	    <!-- The URL for outbound requests -->
+        <URL>CONFIG_JSON</URL>
+    </HTTPTargetConnection>
+</TargetEndpoint>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><TargetEndpoint name="default">
+    <!-- Outbound HTTP configuration -->
+    <HTTPTargetConnection>
+	    <!-- The URL for outbound requests -->
+        <URL>http://mocktarget.apigee.net</URL>
+    </HTTPTargetConnection>
+</TargetEndpoint>

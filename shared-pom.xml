@@ -22,6 +22,10 @@
     <artifactId>parent-pom</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
+    <modules>
+        <module>base64encoder</module>
+        <module>forecastweatherapi</module>
+    </modules>
     <pluginRepositories>
         <pluginRepository>
             <id>central</id>
